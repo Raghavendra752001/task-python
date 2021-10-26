@@ -9,3 +9,4 @@
  cv2.imshow("Original Image",image)
  cv2.imshow("Pencil Sketch of iamge",pencil_sketch)
  cv2.waitKey(0)
+ 
